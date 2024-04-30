@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eu sou a a Kamylla!</h1>
+<h1 align="center">Hi 👋, Eu sou a Kamylla!</h1>
 
 - 🌱 Atualmente estou apredendo **Python e SQL**
 
